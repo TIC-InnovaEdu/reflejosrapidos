@@ -1,0 +1,2 @@
+El proyecto 3 es la implementación de la lógica del juego con sockets para la conexión entre servidor-cliente.
+El proyecto 5 es la implementación en el desarrollo con un autenticador sobre un login y register hay conexión entre servidor-cliente, además se conecta el servidor con la base de datos, se autentica en el cliente, pero no devuelve respuesta del lado del servidor, se está trabajando en eso.  
